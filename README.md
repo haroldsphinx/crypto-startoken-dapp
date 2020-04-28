@@ -1,0 +1,5 @@
+Contract Address: 0x8e5bDE5E00D1954243De2D1FDeeA0B03103D4005
+
+ERC-721 Token Name: AdeStar
+
+ERC-721 Token Symbol: AST
